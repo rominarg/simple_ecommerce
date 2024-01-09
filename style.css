@@ -22,7 +22,6 @@ button{
     text-align: center;
     padding-top: 10px;
     transition: 0.5s;
-    color: #000000;
     font-weight: 600;
 }
 header{
@@ -121,8 +120,9 @@ body.activeTabCart .container{
     color: #000000;
 }
 .listProduct .item .price{
-    letter-spacing: 7px;
-    font-size: small;
+    letter-spacing: 4px;
+    font-size: large;
+    color: #000000;
 }
 .listProduct .item button{
     background-color: #353432;
